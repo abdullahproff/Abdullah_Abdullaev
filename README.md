@@ -1,6 +1,6 @@
 # CV
 
-**Hello there 👋**
+**Hello, World 👋**
 
 ![https://raw.githubusercontent.com/ZaurbekMalsagov/ZaurbekMalsagov/output/github-contribution-grid-snake.svg#gh-light-mode-only](https://raw.githubusercontent.com/ZaurbekMalsagov/ZaurbekMalsagov/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
