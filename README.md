@@ -1,12 +1,12 @@
 # CV
 
-**Hello, World 👋**
+**Hello, World! 👋**
 
 ![https://raw.githubusercontent.com/ZaurbekMalsagov/ZaurbekMalsagov/output/github-contribution-grid-snake.svg#gh-light-mode-only](https://raw.githubusercontent.com/ZaurbekMalsagov/ZaurbekMalsagov/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 **My name is Abdullah Abdullaev**
 
-- **Email:** [a](mailto:z_malsagov98@mail.ru)mabdullaevproff@gmail.com
+- **Email:** amabdullaevproff@gmail.com
 - **Citizenship:** Russia, currently in Moscow
 - **Relocation:** Ready to relocate, ready for business trips
 
