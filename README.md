@@ -24,14 +24,14 @@ Employment: full employment Work schedule: full day, flexible schedule, remote w
 
 Used stack:
 
-- Golang
+- Python
+- SQL
+- Git
+- Linux
 - C
 - C++
 - Java
 - Kotlin
-- Git
-- SQL
-- Linux
 
 **Education**
 
