@@ -57,12 +57,12 @@ Used stack:
 
 **Skills**
 
-- Golang
+- Python
+- SQL
+- Git
+- Linux
+- C
+- C++
 - Java
 - Kotlin
 - MVVM
-- Git
-- C/C++
-- Make
-- SQL
-- Linux
