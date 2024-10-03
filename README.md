@@ -12,7 +12,7 @@
 
 **Desired Position and Salary**
 
-**Golang Developer**
+**Python Developer**
 
 Specializations:
 
