@@ -12,7 +12,7 @@
 
 **Desired Position and Salary**
 
-**Python Developer**
+**Business/System Analyst**
 
 Specializations:
 
@@ -28,10 +28,8 @@ Used stack:
 - SQL
 - Git
 - Linux
-- C
-- C++
-- Java
-- Kotlin
+- Draw.io
+- Swagger
 
 **Education**
 
